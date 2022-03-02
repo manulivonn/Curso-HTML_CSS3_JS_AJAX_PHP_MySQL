@@ -6,7 +6,7 @@ uso de la medidas "rem" este aplica para smartwht y mantallas.*/
     --blanco: #ffffff;
     --oscuro: #212121;
     --primario: #ffc107;
-    --secundario: #009747;
+    --secundario: #0097A7;
     --gris: #757575;
 }
 
@@ -18,7 +18,8 @@ body {
 }
 .titulo {
     text-align: center;
-    font-size: 3.8rem;  /* 1rem = 10px */ 
+    font-size: 3.8rem;  /* 1rem = 10px */
+    font-family: 'Krub', sans-serif;
 }
 .titulo span {
     font-size: 2rem; 
